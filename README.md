@@ -95,3 +95,4 @@ That's it! Only 2 commands to remember.
 - Config: `~/.xeet.yaml` (encrypted sensitive data)
 - Encryption key: `~/.xeet.key` (auto-generated)
 
+

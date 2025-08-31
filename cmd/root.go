@@ -17,6 +17,13 @@ import (
 
 var cfgFile string
 
+// Version information
+var (
+	appVersion   string
+	appCommit    string
+	appBuildTime string
+)
+
 var rootCmd = &cobra.Command{
 	Use:   "xeet",
 	Short: "Terminal interface for posting to X.com",
@@ -25,6 +32,13 @@ var rootCmd = &cobra.Command{
 
 func Execute() error {
 	return rootCmd.Execute()
+}
+
+// SetVersion sets the version information
+func SetVersion(version, commit, buildTime string) {
+	appVersion = version
+	appCommit = commit
+	appBuildTime = buildTime
 }
 
 func init() {

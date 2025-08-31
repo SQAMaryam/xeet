@@ -3,6 +3,8 @@ xeet
 xeet.exe
 dist/
 build/
+coverage.out
+coverage.html
 
 # Configuration files (contain secrets)
 .xeet.yaml
