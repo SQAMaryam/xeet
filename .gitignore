@@ -1,0 +1,32 @@
+# Build artifacts
+xeet
+xeet.exe
+dist/
+build/
+
+# Configuration files (contain secrets)
+.xeet.yaml
+.xeet.key
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Test files
+*.test
+coverage.out
+
+# Temporary files
+tmp/
+temp/
+debug*
