@@ -21,17 +21,15 @@ Simple, beautiful terminal interface for posting to X.com.
 
 
 
-### One-line install (recommended)
-```bash
-curl -sSL https://raw.githubusercontent.com/melqtx/xeet/main/install.sh | bash
-```
+## Installation
 
-### Build from source
 ```bash
 git clone https://github.com/melqtx/xeet.git
 cd xeet
 make install
 ```
+
+That's it! The `make install` command will build and install xeet to `/usr/local/bin/`.
 
 ## Quick Start
 
