@@ -31,6 +31,15 @@ make install
 
 That's it! The `make install` command will build and install xeet to `/usr/local/bin/`.
 
+**After installation, you can use xeet from anywhere:**
+```bash
+xeet version      # Check version
+xeet auth         # Set up X.com credentials  
+xeet              # Start tweeting
+```
+
+No need to stay in the project directory!
+
 ## Quick Start
 
 1. **Set up your X.com API credentials**:
